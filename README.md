@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://briannaserrano.github.io/The-final-project/game.html)
+[Live Demo Link](https://briannaserrano.github.io/The-final-project/index.html)
 
 
 ## Getting Started
