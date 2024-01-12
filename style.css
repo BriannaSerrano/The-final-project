@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+  margin: 0;
+    background-color: black;
+    padding: 10px 20px;
+}
+
+#shim {
+  font-family: 'Permanent Marker', cursive;
+  position: absolute;
+  visibility: hidden
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: yellow;
+}
+
+
+.btn {
+  background-color: red;
+  top: 275px;
+  color: yellow;
+  font-size: 36px;
+  width: 200px;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-family: 'Permanent Marker', cursive ;
+}
+
+H2 {
+  color: white;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
